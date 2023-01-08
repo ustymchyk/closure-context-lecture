@@ -3,15 +3,15 @@
 ### Context
 
 - [When do we need a context](./context/when-context.md)
-- [Knowledge refreshing about prototypes](./context/prototypes.md)
+- [Prototypes](./context/prototypes-1.md)
+- [Try to guess the context](./context/try-to-guess-1.md)
 - [How context works](./context/context.md)
 - [How to change the context](./context/binding.md)
-- [What to read]()
-- [What to do]()
+- [What to read](./context/extra.md)
 
 ### Closure
 
-- [Try to find closures](./closure/examples.md)
+- [Try to find closures](./closure/try-to-find.md)
 - [LexicalEnvironment](./closure/lexical-eniroment.md)
 - [Hoisting](./closure/hoisting.md)
 - [Examples](./examples/examples.md)
