@@ -11,9 +11,14 @@
 
 ### Closure
 
-- [Try to find closures](./closure/try-to-find.md)
-- [LexicalEnvironment](./closure/lexical-eniroment.md)
-- [Hoisting](./closure/hoisting.md)
-- [Examples](./examples/examples.md)
+- [Closure question #1](./closure/le-1.md)
+- [Closure question #2](./closure/le-2.md)
+- [Closure show number #1](./closure/le-3.md)
+- [Closure show number #2](./closure/le-4.md)
+- [Counter #1](./closure/le-5.md)
+- [Counter #2](./closure/le-6.md)
+- [Constructor](./closure/le-7.md)
+- [Scopes](./closure/scopes.md)
+- [Hoisting](./closure/hoisitng.md)
 - [What to read]()
 - [What to do]()
