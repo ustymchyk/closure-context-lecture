@@ -19,6 +19,5 @@
 - [Counter #2](./closure/le-6.md)
 - [Constructor](./closure/le-7.md)
 - [Scopes](./closure/scopes.md)
-- [Hoisting](./closure/hoisitng.md)
-- [What to read]()
-- [What to do]()
+- [Hoisting](./closure/hoisting.md)
+- [What to read](./closure/extra.md)
